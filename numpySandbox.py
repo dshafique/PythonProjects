@@ -9,3 +9,6 @@ print(array)
 array=np.ones(10)*5
 print("An array of 10 fives:")
 print(array)
+array=np.ones(10)*8
+print ("An array of 10 eights")
+print (array)
